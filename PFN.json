@@ -2,7 +2,7 @@
     "room": "PFN",
     "author": "DIARISTA",
     "icon": "",
-    "css": "https://github.com/PercyBot/Room/blob/master/PFN.css",
+    "css": "https://rawgit.com/PercyBot/PFN/master/CONFIG.css",
     "rules": {
         "allowAutorespond": "true",
         "allowAutowoot": "true",
@@ -41,3 +41,5 @@
     },
     "emotes": {
     	"axl": "https://i.imgur.com/eaYZ3m7.gif",
+    }
+}
