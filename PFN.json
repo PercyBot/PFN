@@ -1,1 +1,43 @@
-
+{
+    "room": "PFN",
+    "author": "DIARISTA",
+    "icon": "",
+    "css": "https://github.com/PercyBot/Room/blob/master/PFN.css",
+    "rules": {
+        "allowAutorespond": "true",
+        "allowAutowoot": "true",
+        "allowAutojoin": "true",
+        "allowAutograb": "true",
+        "allowSmartVote": "true",
+        "allowEmotes": "true",
+        "allowShowingMehs": "true",
+        "forceSmartVote": "false"
+    },
+    "ccc": {
+        "admin": "#32CD32",
+        "ambassador": "#32CD32",
+        "host": "#32CD32",
+        "cohost": "#32CD32",
+        "manager": "#32CD32",
+        "bouncer": "#32CD32",
+        "rdj": "#32CD32",
+        "subscriber": "#32CD32",
+        "silversubscriber": "#32CD32",
+        "friend": "#32CD32",
+        "user": "#32CD32"
+    },
+    "images": {
+        "background": "",
+        "playback": "",
+        "admin": "",
+        "ambassador": "",
+        "host": "https://image.prntscr.com/image/RYq_vnUrQaSLes6HHUJA2g.png",
+        "cohost": "https://image.prntscr.com/image/SohtAUf8TnKJu1a1ctoAOw.png",
+        "manager": "https://image.prntscr.com/image/ZRB59DKqSmWZyXzDKtQ2WA.png",
+        "bouncer": "https://image.prntscr.com/image/UQaiFILvSSqDLz8MlYe89g.png",
+        "rdj": "https://image.prntscr.com/image/DpH5hFW3SqG9_2UN-WnjwA.png",
+        "subscriber": "",
+        "silversubscriber": ""
+    },
+    "emotes": {
+    	"axl": "https://i.imgur.com/eaYZ3m7.gif",
