@@ -2,7 +2,7 @@
     "room": "PFN",
     "author": "DIARISTA",
     "icon": "",
-    "css": "https://rawgit.com/PercyBot/PFN/master/CONFIG.css",
+    "css": "https://cdn.jsdelivr.net/gh/PercyBot/PFN/CONFIG.css",
     "rules": {
         "allowAutorespond": "true",
         "allowAutowoot": "true",
